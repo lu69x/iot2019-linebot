@@ -7,7 +7,7 @@
     "start": "node app.js",
     "test": "node app.js"
   },
-  "engines": {
+  "enignes": {
     "node": "10.15.3"
   },
   "repository": {
